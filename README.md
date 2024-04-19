@@ -1,5 +1,5 @@
-# Redis-Mysql
-# Node.js Blog Application
+# Application for Storing Blog Data Using Redis Cache with Node.js
+## Node.js Blog Application
 
 This application performs simple blog data storage using Node.js and Redis. The application caches the data for a particular blog and retrieves it from the cache, or retrieves it from the MySQL database if it is not in the cache. On the first request, since the data is not in the cache, it is retrieved from the MySQL database and sent to the user and written to the cache.
 
