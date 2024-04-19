@@ -53,5 +53,6 @@ The application runs by default on port `5000`.
 
 The application retrieves the data of a specific blog using the `/blogs/:id` endpoint. For example, you can retrieve the data of a blog by visiting the URL `http://localhost:5000/blogs/1`. 
 
-![image](https://github.com/OzlemKlc/Redis-Mysql/assets/122043812/e4de1c1a-a1e9-4e94-b4e5-5f5c094b068f)
+![image](https://github.com/OzlemKlc/Redis-Mysql/assets/122043812/bced3e4e-704b-4b9e-8342-b2b7a79ad9ba)
+
 
